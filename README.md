@@ -2,7 +2,7 @@
 
 Machine-learning models that estimate the risk of **sleep disorders**, **diabetes** and **heart disease** from lifestyle and clinical data, combined into one personalised health report.
 
-Built for the Data Science course at Effat University (Fall 2025), then extended into a research paper and poster presented at Effat's **4th Undergraduate Research Forum (UGRF 2026)**.
+Built for the Data Science course at Effat University (Fall 2025), then extended into a research paper and poster presented at Effat's **7th Undergraduate Research Forum (UGRF 2026)**.
 
 > 📄 Case study: [osvr7.github.io/project.html?p=health-risk](https://osvr7.github.io/project.html?p=health-risk)
 
